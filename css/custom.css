@@ -1,0 +1,53 @@
+
+    #subHeading{
+    	margin-right: 70px;
+    }
+    
+    #text_container{
+    	margin-top: 100px;
+    }    
+
+    #About{
+    	margin-top: 70px;
+    }
+
+    #reviews{
+    	padding-top: 40px;
+    	padding-right:100px;
+    	padding-left: 100px;
+    }
+
+    #twitter,#mail,#gplus,#facebook{
+    	margin: 20px;
+    }
+
+    #social_links{
+    	margin: 50px;
+    }
+	
+    button{
+    	width: 150px;
+    	height: 60px;
+	    color: #f44336;
+	    border:1px solid #f44336;
+	    border-radius: 3px;
+	    margin-top: 20px;
+    	font-size: 20px;
+    }
+
+    #Screens,#Download{
+    	padding-top:30px; 
+    	padding-bottom: 30px;
+    }
+
+    .screens{
+    	background-color: #F1F1F1;
+    }
+
+    #downloadRow{
+    	margin-top: 60px;
+    }
+
+    #downloads{
+    	margin-top: 200px;
+    }
